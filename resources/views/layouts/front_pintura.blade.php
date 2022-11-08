@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Daniel Macol</title>
+    <title>Dashboard</title>
 
     <!-- Bootstrap Core CSS -->
     {!!Html::style('asset/css/bootstrap.min.css')!!}

@@ -12,7 +12,7 @@
 
     <!-- title and favicon -->
 
-    <title>Daniel Macol</title>
+    <title>Dashboard</title>
     <link rel="icon" href="asset/img/logodm.png">
     
 

@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
 
-    <title>Daniel Macol</title>
+    <title>Dashboard</title>
     <link rel="icon" href="asset/img/logodm.png">
 
     {!!Html::style('asset/css/bootstrap.min.css')!!}
