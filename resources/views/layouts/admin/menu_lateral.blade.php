@@ -22,10 +22,6 @@
           </a>
           <ul class="treeview-menu"> 
             <li><a href="/usuario"><i class="glyphicon glyphicon-user"></i> Usuarios</a></li>
-            <li><a href="/secciones"><i class="ion-briefcase"></i>&nbsp;&nbsp;&nbsp;&nbsp;Secciones</a></li>
-            <li><a href="/categorias"><i class="ion-bag"></i>&nbsp;&nbsp;&nbsp;&nbsp;Categorias</a></li>
-            <li><a href="/articulos"><i class="ion-clipboard"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Articulos</a></li>
-            <li><a href="/pinturas"><i class="ion-images"></i>&nbsp;&nbsp;&nbsp;&nbsp;Pinturas</a></li>
           </ul>
         </li>
   </section>

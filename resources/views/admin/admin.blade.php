@@ -53,15 +53,4 @@
   </div><!-- ./col -->
 </div><!-- /.row -->
 <br><br>
-<div class="row">
-  <div class="col-lg-6 col-xs-12" align="center">
-    <a href="/poema" target="_new">
-        <img src="asset/img/bg.jpg" title="User Image">
-    </a>
-  </div>
-  <div class="col-lg-6 col-xs-12" align="center">
-    <a href="/pintura" target="_new">
-        <img src="asset/img/bg2.jpg" title="User Image">
-    </a>
-  </div>
-</div>
+
