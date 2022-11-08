@@ -7,14 +7,14 @@
     <!-- Tell the browser to be responsive to screen width -->
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
 
-    {!!Html::style('asset/css/bootstrap.min.css')!!}
-    {!!Html::style('asset/css/bootstrap-theme.min.css')!!}
-    {!!Html::style('asset/css/font-awesome.min.css')!!}
-    {!!Html::style('asset/css/AdminLTE.min.css')!!}
-    {!!Html::style('asset/css/_all-skins.min.css')!!}
-    {!!Html::style('asset/css/ionicons.min.css')!!}
-    {!!Html::style('asset/css/check.css')!!}
-    {!!Html::style('asset/css/style_switch.css')!!}
+    <link rel="stylesheet" href="asset/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="asset/css/bootstrap-theme.min.css" />
+    <link rel="stylesheet" href="asset/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="asset/css/AdminLTE.min.css" />
+    <link rel="stylesheet" href="asset/css/_all-skins.min.css" />
+    <link rel="stylesheet" href="asset/css/ionicons.min.css" />
+    <link rel="stylesheet" href="asset/css/check.css" />
+    <link rel="stylesheet" href="asset/css/style_switch.css" />
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -48,9 +48,9 @@
         @include('layouts.admin.menu_sidebar')      <!-- Incluimos el menu del sidebar -->
     </div><!-- ./wrapper -->
 
-    {!!Html::script('asset/js/jQuery-2.1.4.min.js')!!}
-    {!!Html::script('asset/js/bootstrap.min.js')!!}
-    {!!Html::script('asset/js/app.min.js')!!}
+    <script src="asset/js/jQuery-2.1.4.min.js" />
+    <script src="asset/js/bootstrap.min.js" />
+    <script src="asset/js/app.min.js" />
     @section('scripts')
     @show
   </body>

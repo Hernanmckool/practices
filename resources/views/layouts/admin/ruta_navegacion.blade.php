@@ -3,6 +3,6 @@
     <small>Panel de Control</small>
   </h1>
   <ol class="breadcrumb">
-    <li> {!!breadcrumbs::render()!!}</li>
+    <li> breadcrumbs</li>
   </ol>
 </section>

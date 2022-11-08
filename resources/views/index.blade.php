@@ -17,8 +17,8 @@
     
 
     <!--necessary stylesheets -->
-    {!!Html::style('asset/css/bootstrap.min.css')!!}
-    {!!Html::style('asset/css/style_index.css')!!}
+    <link rel="stylesheet" href="asset/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="asset/css/style_index.css"/>
 </head>
 
 
@@ -60,9 +60,9 @@
             </div>
         </div>
     </div>
-    {!!Html::script('asset/js/jQuery-2.1.4.min.js')!!}
-    {!!Html::script('asset/js/bootstrap.min.js')!!}
-    {!!Html::script('asset/js/script_index.js')!!}
+    <script src="asset/js/jQuery-2.1.4.min.js"/>
+    <script src="asset/js/bootstrap.min.js"/>
+    <script src="asset/js/script_index.js"/>
 
 </body>
 </html>
